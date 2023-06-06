@@ -4,14 +4,10 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+Hello, my name is Jayce Jung, and I am a software developer specializing in computer science. Currently, I am a candidate for the University of Waterloo's graduate program in Computer Science, set to graduate in 2023.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+With a strong foundation in programming and a passion for learning, I approach new challenges with determination and an open mind. I strive to expand my knowledge and skills, always seeking opportunities to grow as a professional in the field.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Through my experiences, I have developed a deep understanding of software development principles and a commitment to delivering high-quality solutions. I am excited to contribute to the ever-evolving world of technology with my expertise and dedication.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Template credit goes to [https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator)
