@@ -32,12 +32,9 @@ baseurl: ""
 
 # social icons and sharing options
 social:
-  - icon: twitter
-    url: https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+  - icon: linkedin
+    url: https://www.linkedin.com/in/jayce-jung/
+    desc: Connect with me on LinkedIn
 
   #  - icon:	facebook
   #    url:	https://facebook.com/???
